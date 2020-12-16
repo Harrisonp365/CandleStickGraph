@@ -31,4 +31,5 @@ RESOURCES += \
     Resources.qrc
 
 DISTFILES += \
-    CandleStick.png
+    CandleStick.png \
+    README.md
